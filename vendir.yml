@@ -6,6 +6,6 @@ directories:
   - path: contour
     helmChart:
       name: contour
-      version: "7.10.1"
+      version: "10.1.3"
       repository:
         url: https://charts.bitnami.com/bitnami
